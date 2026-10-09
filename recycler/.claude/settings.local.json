@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dotnet new:*)",
+      "Bash(dotnet run:*)",
+      "WebFetch(domain:developer.up.com.au)",
+      "Bash(dotnet add package:*)",
+      "Bash(dotnet user-secrets:*)",
+      "Bash(dotnet build:*)",
+      "Bash(dotnet sln add:*)",
+      "Bash(dir:*)",
+      "Bash(ls:*)",
+      "Bash(dotnet test:*)",
+      "Bash(wc:*)",
+      "Bash(find:*)"
+    ]
+  }
+}

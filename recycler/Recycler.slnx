@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Recycler.csproj" />
+  <Project Path="Recycler.Tests/Recycler.Tests.csproj" />
+</Solution>
